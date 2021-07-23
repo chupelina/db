@@ -1,0 +1,63 @@
+Violet	true	Ibuprofen
+Green	false	Methylprednisolone
+Indigo	false	leader pain reliever
+Fuscia	false	Burkhart
+Maroon	false	Denavir
+Fuscia	true	Ampicillin Trihydrate
+Yellow	false	ESIKA 3-IN-1 PRO MAKE UP FOUNDATION SPF 20 BASE DE MAQUILLAJE PARA ROSTRO 3-EN-1 PRO FPS 20
+Violet	true	Live Oak
+Fuscia	true	Phentermine Hydrochloride
+Maroon	false	Sunmark Day time
+Indigo	true	Anti-Itch
+Yellow	true	DawnMist Antiperspirant Deodorant
+Maroon	false	Bellagio Sunscreen SPF 45
+Teal	true	Isoniazid
+Blue	true	365 Everyday Value Be Well Cough Ease
+Khaki	true	Ear Care
+Goldenrod	false	Lansoprazole
+Aquamarine	true	Donepezil Hydrochloride
+Yellow	true	Ziprasidone Hydrochloride
+Violet	true	Yes To Carrots Sweet Fig Lip Butter with SPF 15
+Pink	true	IASO progressive age care emulsion
+Blue	false	Konklux
+Blue	false	Lotlux
+Aquamarine	false	Tampflex
+Yellow	false	Tres-Zap
+Aquamarine	false	Trippledex
+Mauv	true	Matsoft
+Purple	false	Lotstring
+Mauv	true	Cookley
+Khaki	true	Stringtough
+Mauv	false	Sonsing
+Khaki	false	Bigtax
+Orange	false	Kanlam
+Maroon	false	Matsoft
+Violet	true	Quo Lux
+Fuscia	false	Flexidy
+Khaki	false	Gembucket
+Goldenrod	false	Mat Lam Tam
+Indigo	false	Fix San
+Maroon	false	Kanlam
+Crimson	true	Zontrax
+Goldenrod	true	Transcof
+Red	false	Home Ing
+Fuscia	false	Zoolab
+Green	true	Lotlux
+Fuscia	false	Lotlux
+Fuscia	true	Home Ing
+Crimson	false	Y-Solowarm
+Turquoise	false	Subin
+Fuscia	false	Sonair
+Goldenrod	true	Zamit
+Orange	true	Viva
+Teal	false	Zaam-Dox
+Khaki	true	Redhold
+Purple	false	Konklux
+Crimson	false	Domainer
+Pink	true	Duobam
+Turquoise	true	Veribet
+Teal	false	Mat Lam Tam
+Teal	true	Bamity
+Maroon	true	Latlux
+Puce	true	Konklux
+Pink	true	Job
